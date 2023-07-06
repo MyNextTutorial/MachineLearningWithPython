@@ -1,5 +1,5 @@
 # MachineLearningWithPython
-Starter files for Pluralsight course: Understanding Machine Learning with Python
+Starter files for MynextTutorials course: Understanding Machine Learning with Python
 
 
 ## Edit history
